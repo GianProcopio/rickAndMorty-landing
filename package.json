@@ -1,0 +1,23 @@
+{
+  "name": "rickandmorty-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianProcopio/rickAndMorty-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianProcopio/rickAndMorty-landing/issues"
+  },
+  "homepage": "https://github.com/GianProcopio/rickAndMorty-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
